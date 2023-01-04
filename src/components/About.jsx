@@ -14,13 +14,13 @@ const About = () => {
         </div>
 
         <p className="text-xl mt-20">
-          I am a Full stack developer from Guwahati, working with React and Node JS. Build and worked on Node JS and React Projects.
+          I am a Full stack developer from Guwahati, working with React JS and Node JS. 
         </p>
 
         <br />
 
         <p className="text-xl">
-                  Intrigued by coding, traveling, technology, strategy, philosophy, fabulous food, and even better conversations. 
+                  Intrigued by coding, cars, traveling, technology, strategy, philosophy, fabulous food, and even better conversations. 
                   </p>
 <p className="text-xl">
 Seeking to be inspired, to envision the unlikely, to work hard for things that are worth it, and to be surrounded by those who bring out the best in me.
