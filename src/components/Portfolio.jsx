@@ -92,10 +92,10 @@ const Portfolio = () => {
                 className="rounded-md duration-200 hover:scale-105"
               />
               <div className="flex items-center justify-center">
-                <a className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105" href={link1} target="_blank">
+                <a className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105" href={link1} target="_blank" rel="noreferrer">
                   Demo
                 </a>
-                <a className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105" href={link2} target="_blank">
+                <a className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105" href={link2} target="_blank" rel="noreferrer">
                   Code
                 </a>
               </div>
