@@ -1,4 +1,4 @@
-# Portfolio App React 
+# Portfolio App using React & Tailwind
 
 ![port1](https://user-images.githubusercontent.com/76623158/211142779-66016b70-8e23-40f4-9ad7-9efe79df9ecd.jpg)
 
